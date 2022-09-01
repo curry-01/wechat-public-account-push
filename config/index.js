@@ -42,7 +42,7 @@ export const config = {
     // 所在省份
     PROVINCE: "江西",
     // 所在城市
-    CITY: "上饶",
+    CITY: "新余",
 
     /** 重要节日相关 */
 
