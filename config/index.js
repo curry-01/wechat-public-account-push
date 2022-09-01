@@ -25,7 +25,8 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '松松', id: "oK1Rg5xV-BQ59CNZPZgFGb4C0Xno"}
+      {name: '松松', id: "oK1Rg5xV-BQ59CNZPZgFGb4C0Xno"},
+      {name: '宝贝', id: "oK1Rg5ysZGqG3RZcQvZgXAK_tqAI"}
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
